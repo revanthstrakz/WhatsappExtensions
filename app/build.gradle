@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.suraj.waext"
+        applicationId "com.strakz.waext"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 27
